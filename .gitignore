@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude (arquivos locais que não devem ser versionados)
+.claude/
+CLAUDE.local.md
+*.local.md
+
+# Rascunhos e backups
+*.bak
+*.tmp
+*.draft.md
+scratch/
+drafts/
